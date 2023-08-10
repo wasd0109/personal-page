@@ -5,7 +5,7 @@ import { FaGithub, FaRegEnvelope } from "react-icons/fa6";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24">
+    <main className="flex flex-col items-center justify-center p-24">
       <h1 className='prose prose-2xl'>
         Coming Soon
       </h1>
