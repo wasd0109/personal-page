@@ -16,7 +16,7 @@ export default function Home() {
         <Link href="https://github.com/wasd0109" target='_blank'>
           <FaGithub />
         </Link>
-        <Link href="mailto:wasd0109.dev@gmail.com">
+        <Link href="mailto:me@monakaken.com">
           <FaRegEnvelope />
         </Link>
       </div>
